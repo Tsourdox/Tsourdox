@@ -5,7 +5,7 @@
 - 🤔 I’m looking for help with some advanced generics & function overloading in Typescript.
 - 💬 Ask me about anything!
 
-Here are a some of the thing's I've worked with and in most cases also tought others over the years:
+Here are a some of the things I've worked with and in most cases also tought others over the years:
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?logo=c&logoColor=white&style=flat) 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?logo=c-sharp&logoColor=white&style=flat) 
