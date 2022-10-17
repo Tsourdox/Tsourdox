@@ -1,7 +1,7 @@
 ### Hi there! 👋
 
 - 👨‍💻 I’m currently working as a teacher and a developer.
-- 🌱 I’m currently interested in learning testing frameworks like Cypress & Vitest.
+- 🌱 I’m currently interested in learning testing frameworks like Cypress & Vitest but also NextJs.
 - 🤔 I’m looking for help with some advanced generics & function overloading in Typescript.
 - 💬 Ask me about anything!
 
