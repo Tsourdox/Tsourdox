@@ -1,9 +1,11 @@
 ### Hi there! 👋
 
 - 👨‍💻 I’m currently working as a teacher and a developer.
-- 🌱 I’m currently interested in learning testing frameworks like Cypress & Vitest but also NextJS.
+- 🌱 I’m currently interested in AI development.
 - 🤔 I’m looking for help with some advanced generics & function overloading in Typescript.
 - 💬 Ask me about anything!
+- 🌐 Website: [tsourdox.se](https://tsourdox.se)
+- 📺 YouTube: [@Tsourdox](https://www.youtube.com/@Tsourdox)
 
 Here are a some of the tools I've worked with and in most cases also taught others over the years:
 
@@ -19,7 +21,6 @@ Here are a some of the tools I've worked with and in most cases also taught othe
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB&style=flat) 
 ![MUI ](https://img.shields.io/badge/MUI-%230081CB.svg?logo=material-ui&logoColor=white&style=flat) 
 ![NPM ](https://img.shields.io/badge/NPM-%23000000.svg?logo=npm&logoColor=white&style=flat) 
-![Next JS ](https://img.shields.io/badge/Next-black?logo=next.js&logoColor=white&style=flat) 
 ![Node.js ](https://img.shields.io/badge/node.js-6DA55F?logo=node.js&logoColor=white&style=flat) 
 ![P5js](https://img.shields.io/badge/p5.js-ED225D?logo=p5.js&logoColor=FFFFFF&style=flat)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361DAFB&style=flat) 
